@@ -1,0 +1,175 @@
+﻿@* 
+@{
+    Layout = "_Layout2";
+    var popularProducts = ViewBag.PopularProducts as IEnumerable<AlGallery.Models.Products>;
+    var DropdownContent = ViewBag.DropdownContent as IEnumerable<AlGallery.Models.Categories>;
+
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Collection"]</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="~/css/Roboto.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/poppins.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/rufina.css" asp-append-version="true" />
+    <link href="~/css/collectionall.css" rel="stylesheet" asp-append-version="true" />
+   
+
+</head>
+<body>
+    <div class="collection-all">
+<div class="back_links">
+    <div class="item">
+                <a asp-area="" asp-controller="Home" asp-action="Home">
+            <span class="link-home">
+                HOME
+            </span>
+        </a>
+        <img class="vector3" src="../assets/vectors/vector91_x2.svg">
+    </div>
+            <a asp-area="" asp-controller="Home" asp-action="Collection">
+        <div class="link-collection">
+            Collection
+        </div>
+    </a>
+</div>
+<div class="popular-collection">
+    <span class="popular-collection-1">
+        Popular Collection
+    </span>
+</div>
+<div class="dropdown_menues">
+    <div class="dropdowncat">
+        <button class="dropbtn">
+            ALL<img class="droparrow" src="../assets/vectors/vector82_x2.svg">
+        </button>
+     
+                @Html.Partial("_DropdownContent", DropdownContent);
+
+    </div>
+    <div class="dropdownprice">
+        <button class="dropbtn">
+            Price<img class="droparrow" src="../assets/vectors/vector82_x2.svg">
+        </button>
+        <div class="dropdown-content">
+            <a href="#">1-100 EGP</a>
+            <a href="#">101-200 EGP</a>
+            <a href="#">201-300 EGP</a>
+            <a href="#">301-400 EGP</a>
+        </div>
+    </div>
+    <a href="collectionAll.html">
+        <span class="clear-all">
+            Clear All
+        </span>
+    </a>
+</div>
+
+        @Html.Partial("_PopularCollection", popularProducts);
+
+
+
+
+
+</body>
+</html>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+} *@
+
+@{
+    Layout = "_Layout2";
+    var popularProducts = ViewBag.PopularProducts as IEnumerable<AlGallery.Models.Products>;
+    var categories = ViewBag.Categories as IEnumerable<AlGallery.Models.Categories>;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/collectionall.css" asp-append-version="true" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="collection-all">
+        <div class="back_links">
+            <div class="item">
+                <a asp-area="" asp-controller="Home" asp-action="Home">
+                    <span class="link-home">HOME</span>
+                </a>
+                <img class="vector3" src="../assets/vectors/vector91_x2.svg" alt="Back to home">
+            </div>
+            <a asp-area="" asp-controller="Home" asp-action="Collection">
+                <div class="link-collection">Collection</div>
+            </a>
+        </div>
+
+        <div class="popular-collection">
+            <span class="popular-collection-1">Popular Collection</span>
+        </div>
+
+        <div class="dropdown_menues">
+            <div class="dropdowncat">
+                <form id="categoryForm" method="get" asp-action="Index">
+                    <select id="categorySelect" name="categoryName">
+                        <option value="">ALL</option>
+                        @foreach (var category in categories)
+                        {
+                            <option value="@category.Name">@category.Name</option>
+                        }
+                    </select>
+                    <input type="hidden" id="categoryId" name="categoryId" />
+                </form>
+            </div>
+
+            <div class="dropdownprice">
+                <button class="dropbtn">
+                    Price <img class="droparrow" src="../assets/vectors/vector82_x2.svg" alt="Dropdown arrow">
+                </button>
+                <div class="dropdown-content">
+                    <a href="#">1-100 EGP</a>
+                    <a href="#">101-200 EGP</a>
+                    <a href="#">201-300 EGP</a>
+                    <a href="#">301-400 EGP</a>
+                </div>
+            </div>
+            <a href="collectionAll.html">
+                <span class="clear-all">Clear All</span>
+            </a>
+        </div>
+        @Html.Partial("_PopularCollection", popularProducts);
+
+
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('#categorySelect').change(function () {
+                var selectedCategoryName = $(this).val();
+                $('#categoryForm').submit();
+            });
+        });
+    </script>
+</body>
+</html>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

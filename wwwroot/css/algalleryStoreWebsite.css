@@ -1,0 +1,1271 @@
+.imags-1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 320px;
+    height: 336px;
+}
+.img-Cart {
+    background: url('../assets/vectors/group1_x2.svg') 50% / cover no-repeat;
+}
+
+    .imags-1 img {
+        width: 320px;
+        height: 336px;
+    }
+
+.container h4 {
+    padding: 2px 16px;
+    text-align: Center;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 22px;
+    color: #373737;
+    margin-bottom: 8px;
+}
+
+.container p {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    text-align: Center;
+    font-weight: 500;
+    font-size: 22px;
+    color: #615E59;
+    margin-top: 0;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+a {
+    text-decoration-line: none
+}
+button{
+    cursor:pointer;
+}
+    .algallery-store-website .group-11 {
+  border-radius: 34px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 692px;
+  translate: -50% 0;
+  padding: 46px 16.3px 65px 16.3px;
+  width: 423px;
+  height: 180px;
+  box-sizing: border-box;
+}.algallery-store-website .container-27 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 43.3px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.algallery-store-website .header {
+  background: #F2EFEA;
+  position: relative;
+ /* margin-bottom: 152px;*/
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 54px 86px 90px 0;
+  box-sizing: border-box;
+}
+.algallery-store-website .popular-collection-1 {
+  margin: 0 1.2px 92px 0;
+  display: inline-block;
+  font-family: 'Roboto Slab';
+  font-weight: 500;
+  font-size: 60px;
+  color: #615E59;
+  text-align: center;
+    width: 100%;
+    margin-bottom: 92px;
+}
+.algallery-store-website .popular-collection {
+  position: relative;
+  margin-bottom: 90px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 362px 110.2px 0 100px;
+  box-sizing: border-box;
+}
+.algallery-store-website .imgs {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.algallery-store-website .row1 {
+  margin-bottom: 126px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 14px;
+  box-sizing: border-box;
+}
+.algallery-store-website .img1row1-1 {
+  background: url('../assets/images/img1.png');
+  width: 320px;
+  height: 336px;
+}
+.algallery-store-website .img2row1-1 {
+  background: url('../assets/images/personalizedGirlsWomenRealFlowerResinPendantNecklaceInitialJewelryPressedFlowerNecklaceHandmadeJewelryChristmasGift1.jpeg') 50% / cover no-repeat;
+  width: 320px;
+  height: 336px;
+}
+.algallery-store-website .img3row1-1 {
+  background: url('../assets/images/x6001.jpeg') 50% / cover no-repeat;
+  top: 1px;
+  right: 334px;
+  width: 320px;
+  height: 336px;
+}
+.algallery-store-website .img4row1-1 {
+  background: url('../assets/images/whiteFloralAndGoldFlakeResinCoasters1.jpeg') 50% / cover no-repeat;
+  width: 320px;
+  height: 336px;
+}
+.algallery-store-website .right-side {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  width: 350px;
+
+}
+.algallery-store-website .cart {
+  margin: 9px 38px 11px 0;
+  width: 32px;
+  height: 32px;
+}
+
+.algallery-store-website .login {
+  border-radius: 3px;
+  border: 2px solid #000000;
+  margin-right: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 11px 0.3px 11px 0;
+  box-sizing: border-box;
+  font-family: 'Poppins';
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #615E59;
+  text-align: center;
+  font-weight: 500;
+  width: 142px;
+  background-color: #F2EFEA;
+
+}
+.login:hover {
+  border: none;
+  background-color: #C7BDB1;
+  color: white;
+}
+
+.algallery-store-website .regester {
+  border-radius: 3px;
+  border: 2px solid #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 11px 0 11px 5.5px;
+  box-sizing: border-box;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #615E59;
+  text-align: center;
+  font-weight: 500;
+  width: 142px;
+  background-color: #F2EFEA;
+}
+.regester :hover {
+  border: none;
+  background-color: #C7BDB1;
+  color: white;
+}
+.algallery-store-website .maintext-container {
+  margin-right: 20px;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
+}
+.algallery-store-website .mainText {
+  
+  margin: 22px 62.3px 63px 40px;
+  display: flex;
+  flex-direction: column;
+}
+.algallery-store-website .p1{
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Rufina';
+  font-weight: 700;
+  font-size: 86px;
+  color: #000000;
+}
+.algallery-store-website .p2{
+  margin-bottom: 54px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 2.2;
+  color: #615E59;
+}
+
+.algallery-store-website .button1 {
+  box-shadow: 6px 33px 59px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  background: #615E59;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 22px 1.5px 22px 0;
+  width: 258px;
+  box-sizing: border-box;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  border: none;
+}
+.button1:hover {
+  border: none;
+  background-color: #C7BDB1;
+  color: white;
+}
+
+.algallery-store-website .vases{
+  background: url('../assets/images/A226.png') 50% / cover no-repeat;
+  width: 570px;
+  height: 717px;
+  border-radius: 145px 45px 150px 82px;
+}
+.algallery-store-website .points-1 {
+  position: relative;
+  margin: 424px 170px 103px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 119px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.algallery-store-website .points-2 {
+  position: relative;
+  margin: 155px 12px 452px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 119px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.algallery-store-website .header-line {
+  position: absolute;
+  left: 50px;
+  top: -69px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 930px;
+  box-sizing: border-box;
+}
+.algallery-store-website .logooooooooooo {
+  background: url('../assets/images/logooooooooooo.png') 50% / cover no-repeat;
+  width: 256px;
+  height: 187px;
+}
+.algallery-store-website .header-line-1 {
+  margin: 132px 0 22px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 521.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.header-line-1 span{
+  
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #615E59;
+}
+
+.algallery-store-website .img1row2-1 {
+  background: url('../assets/images/image5121.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  width: 320px;
+  height: 336px;
+  top: 478px;
+
+}
+.algallery-store-website .main-text {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1111.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.algallery-store-website .containerr {
+  margin: 0 0 26px 10.2px;
+  display: flex;
+  flex-direction: row;
+  width: 654px;
+  box-sizing: border-box;
+}
+.algallery-store-website .img2row2-1{
+  background: url('../assets/images/db680E025C4346A1BbE6031Efc0D6F1.jpeg') 50% / cover no-repeat;
+  margin-top: 15px;
+  margin-right: 9px;
+  width: 320px;
+  height: 336px;
+}
+.algallery-store-website .img3row2-1 {
+  background: url('../assets/images/img2.png');
+  margin-top: 15px;
+  width: 320px;
+  height: 336px;
+}
+
+.algallery-store-website .img4row2-1 {
+  background: url('../assets/images/adecorativeCoasterThatllPreventRingStainsOnYourNightstandEachOneIsHandcraftedAndUniqueAsWellAsHeatResistantsoYouCanPlaceYourPipingCupOfTeaDownOnIt1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  bottom: 86px;
+  width: 320px;
+  height: 336px;
+  margin-left: 1000px;
+  top: 478px;
+}
+
+.algallery-store-website .textcontainer1 {
+  margin: 0 1.3px 26px 9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.algallery-store-website .homeTextgroup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.algallery-store-website .design-1 {
+  margin: 0 2.6px 8px 1.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #373737;
+}
+.algallery-store-website .egp-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #615E59;
+}
+
+.algallery-store-website .design-2 {
+  margin: 0 4.4px 8px 0px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #373737;
+}
+.algallery-store-website .egp-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #615E59;
+}
+
+.algallery-store-website .design-3 {
+  margin: 0 0 8px 0.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #373737;
+}
+.algallery-store-website .egp-3 {
+  margin-right: 1.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #615E59;
+}
+
+.algallery-store-website .design-4 {
+  margin: 0 0 8px 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #373737;
+}
+.algallery-store-website .egp-4 {
+  margin-right: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #615E59;
+}
+.algallery-store-website .textcontainer2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.algallery-store-website .homeTextgroup2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.algallery-store-website .design-5 {
+  margin: 0 0 8px 0.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #373737;
+}
+.algallery-store-website .egp-5 {
+  margin-right: 2.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #615E59;
+}
+.algallery-store-website .design-6 {
+  margin: 0 0 8px 0.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #373737;
+}
+.algallery-store-website .egp-6 {
+  margin-right: 2.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #615E59;
+}
+.algallery-store-website .design-7 {
+  margin: 0 0 8px 0.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #373737;
+}
+.algallery-store-website .egp-7 {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #615E59;
+}
+
+.algallery-store-website .design-8 {
+  margin: 0 0 8px 0.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #373737;
+}
+.algallery-store-website .egp-8 {
+  margin-right: 2.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #615E59;
+}
+.algallery-store-website .see-allButtom1 {
+  border-radius: 3px;
+  border: 2px solid #000000;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14px;
+  width: 224px;
+  box-sizing: border-box;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #615E59;
+  margin: auto;
+
+  
+}
+.see-allButtom1:hover {
+  border: none;
+  background-color: #C7BDB1;
+  color: white;
+}
+
+.algallery-store-website .seeall-arrow {
+  font-weight: bold;
+    font-size: 28px;
+    
+}
+.algallery-store-website #NEWS {
+  border-radius: 3px;
+  margin: 150px 172px 176px 172px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 596px;
+  box-sizing: border-box;
+}
+.algallery-store-website .group-news {
+  border-radius: 3px;
+  background: #F2EFEA;
+  position: relative;
+  width: 100%;
+  height: 596px;
+}
+.algallery-store-website .containerrr {
+  position: absolute;
+  left: -171px;
+  bottom: -140.7px;
+  display: flex;
+  flex-direction: row;
+  padding: 91px 150.4px 179.7px 0;
+  height: 666.7px;
+  box-sizing: border-box;
+}
+.algallery-store-website .imgnews-1{
+  background: url('../assets/images/a9447Cc213834097B8E6717E840830E7RemovebgPreview1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 103px;
+  right: 0px;
+  width: 195px;
+  height: 423px;
+}
+.algallery-store-website .NEWStext {
+  border-radius: 3px;
+  margin-bottom: 69px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 750px;
+
+}
+.algallery-store-website .imgnews {
+  background: url('../assets/images/download41.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 231px;
+  top: 0px;
+  width: 447px;
+  height: 456px;
+}
+.algallery-store-website .al-gallery-store {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: 46px;
+  color: #615E59;
+}
+.algallery-store-website .join-us {
+  margin-bottom: 73px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #615E59;
+}
+
+.algallery-store-website .adv {
+  margin: 0 120px 50px 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.algallery-store-website .adv-content {
+  border-radius: 34px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 42px 36.8px 62px 5px;
+  width: 435px;
+  margin-right: 20px;
+  box-sizing: border-box;
+}
+
+.algallery-store-website .rocket-lunch-1 {
+  margin: 4px 17px 2.9px 0;
+  display: flex;
+  flex-direction: row;
+  height: 69.1px;
+  padding: 0 0 0 20px;
+  box-sizing: border-box;
+}
+.algallery-store-website .vector {
+  width: 52.1px;
+  height: 69.1px;
+}
+.algallery-store-website .rocket-lunch-1 p{
+ 
+  font-family: 'Poppins';
+  font-size: 25px;
+  color: #000000;
+  width: 350px;
+  margin: -5px 15px;
+}
+.algallery-store-website .rocket-lunch-1 p span{
+   font-weight:bold;
+}
+
+.algallery-store-website .footer {
+  position: relative;
+  padding-top: 53px;
+  box-sizing: border-box;
+  width: 100%;
+}
+.algallery-store-website .footer-container {
+  background: #A28C7F;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 112px 73.5px 95px 0;
+  box-sizing: border-box;
+}
+.algallery-store-website .footerTextcontainer {
+  margin-bottom: 100px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+  margin-left: 140px;
+
+}
+.algallery-store-website .logo-footer {
+  background: url('../assets/images/logooooooooooo.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50px;
+  top: 0px;
+  width: 256px;
+  height: 187px;
+}
+
+
+.algallery-store-website .footerTextcontainer-1 {
+    margin: 73px 90px 44px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.algallery-store-website .social-media {
+  margin-bottom: 27px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Slab';
+  font-weight: 500;
+  font-size: 22px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.social-medialogos{
+  display: flex;
+  flex-direction: row;
+}
+.algallery-store-website .vector-4 {
+  width: 31.9px;
+  height: 31.9px;
+}
+.algallery-store-website .facebook {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 31.9px;
+  height: 31.9px;
+  box-sizing: border-box;
+  margin-right: 30px;
+
+}
+.algallery-store-website .vector-5 {
+  width: 35px;
+  height: 28.7px;
+}
+.algallery-store-website .twitter {
+  margin: 2.8px 0 0.4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 35px;
+  height: 28.7px;
+  box-sizing: border-box;
+  margin-right: 30px;
+
+}
+.algallery-store-website .vector-6 {
+  width: 33.4px;
+  height: 33.4px;
+}
+
+
+
+
+.algallery-store-website .ellipse-4 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-5 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-6 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-7 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .container-26 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 119px;
+  box-sizing: border-box;
+}
+.algallery-store-website .ellipse-9 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-10 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-11 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-12 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .container-8 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 119px;
+  box-sizing: border-box;
+}
+.algallery-store-website .ellipse-14 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-15 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-16 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-17 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .container-28 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 119px;
+  box-sizing: border-box;
+}
+.algallery-store-website .ellipse-19 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-20 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-21 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-22 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .container-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 119px;
+  box-sizing: border-box;
+}
+
+.algallery-store-website .ellipse-3 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-41 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-51 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-61 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .container-18 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 119px;
+  box-sizing: border-box;
+}
+.algallery-store-website .ellipse-8 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-91 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-101 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-111 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .container-29 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 119px;
+  box-sizing: border-box;
+}
+.algallery-store-website .ellipse-13 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-141 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-151 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-161 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .container-35 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 119px;
+  box-sizing: border-box;
+}
+.algallery-store-website .ellipse-18 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-191 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-201 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .ellipse-211 {
+  border-radius: 4px;
+  background: #615E59;
+  width: 8px;
+  height: 8px;
+}
+.algallery-store-website .container-20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 119px;
+  box-sizing: border-box;
+}
+
+.algallery-store-website .img-5 {
+  background: #D9D9D9;
+  width: 320px;
+  height: 336px;
+}
+.algallery-store-website .img-6 {
+  background: #D9D9D9;
+  width: 320px;
+  height: 336px;
+}
+.algallery-store-website .img-7 {
+  background: #D9D9D9;
+  width: 320px;
+  height: 336px;
+}
+.algallery-store-website .img-8 {
+  background: #D9D9D9;
+  width: 320px;
+  height: 336px;
+}
+.algallery-store-website .container-3 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 14px;
+  width: 1322px;
+  box-sizing: border-box;
+}
+
+.algallery-store-website .container-6 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.algallery-store-website .container-23 {
+  margin: 0 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 106px;
+  box-sizing: border-box;
+}
+
+
+
+.algallery-store-website .shop {
+  margin-bottom: 34px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Slab';
+  font-weight: 500;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.algallery-store-website .products {
+  margin-bottom: 26px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.algallery-store-website .terms {
+  margin-bottom: 26px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.algallery-store-website .privacy {
+  margin-right: 13.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.algallery-store-website .shopGroup {
+  margin-right: 187.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.algallery-store-website .company {
+  margin-bottom: 34px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Slab';
+  font-weight: 500;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.algallery-store-website .about-us {
+  margin-bottom: 26px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.algallery-store-website .contact {
+  margin-bottom: 26px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.algallery-store-website .news {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.algallery-store-website .companyGroup {
+  margin-right: 187.9px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.algallery-store-website .stay-up-to-date {
+  margin-bottom: 65.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Slab';
+  font-weight: 500;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.algallery-store-website .enter-your-email {
+  position: relative;
+  margin: 0 32.7px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.algallery-store-website .rectangle-33 {
+  border: 1px solid #F2EFEA;
+  background: #FFFFFF;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 134.2px;
+  height: 66.5px;
+}
+.algallery-store-website .submit {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #615E59;
+}
+input[type=email] {
+  border-radius: 3px;
+  border: 2px solid #F2EFEA;
+  position: absolute;
+  left: 35%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 16.3px 37px 20.2px 37px;
+  width: 400px;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  border-radius: 3px;
+  border: 2px solid #ffffff;
+  padding: 16.3px 37px 20.2px 37px;
+  width: 150px;
+  color: #757575;
+  translate: 265% 36%;
+  font-weight: 600;
+}
+input[type=submit]:hover {
+  width: 150px;
+  border:none;
+  color: #ffffff;
+  background-color: #615e59;
+  font-weight: 600;
+}
+.algallery-store-website .stay-up {
+  position: relative;
+  margin-bottom: 75px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20.2px;
+  width: 568.2px;
+  box-sizing: border-box;
+}
+
+.algallery-store-website .line-footer {
+  background: #FFFFFF;
+  margin:auto;
+  align-self: center;
+  width: 1200px;
+  height: 2px;
+}
+
+/*////////////////////////////////////////////////////////////////////////////////////////////*/
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: black;
+    background-color: #F2EFEA;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+    .card button:hover {
+        opacity: 0.7;
+    }
+
+

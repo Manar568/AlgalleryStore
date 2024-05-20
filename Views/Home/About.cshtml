@@ -1,0 +1,109 @@
+﻿
+@{
+    ViewData["Title"] = "Home|About";
+    Layout = "_Layout2"; 
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["About"]</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="~/css/Roboto.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/poppins.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/rufina.css" asp-append-version="true" />
+    <link href="~/css/about.css" rel="stylesheet" asp-append-version="true" />
+
+</head>
+<body>
+<div class="about">
+<div class="main">
+    <img class="bgAbout" src="~/assets/vectors/h2_x2.svg" />
+    <div class="about-us-1">
+        ABOUT US
+    </div>
+</div>
+<div class="container-body">
+    <div class="leftside">
+        <div class="container">
+            <div class="about-us">
+                About Us
+            </div>
+            <div class="logooooooooooo2"></div>
+            <span class="who-we">
+                Helping make creativity possible with<br />
+                innovative notions and tools from Dritz,<br />
+                Omnigrid, and Prym.
+            </span>
+        </div>
+    </div>
+    <div class="container-mainText">
+        <div class="about-img">
+            <div class="about-img1">
+            </div>
+            <div class="about-img2">
+            </div>
+            <div class="about-img3">
+            </div>
+        </div>
+        <div class="welcome">
+            Welcome!
+        </div>
+        <span class="textAbout-Us">
+            Like you, we love to craft. As makers ourselves, we value the quality and notions we use, from basic to the craftsmanship of our favorite go-to tools that help us create with ease and accuracy. <br />
+            <br />
+            <br />
+            <br />
+            At AlGallery, you’ll find your favorite product, arts and accessories . As you start your next shopping, discover the convenience of shopping for all your crafting needs in one place.<br />
+            <br />
+            <br />
+            <br />
+            In addition to our vibrant marketplace for all tools and accessories, we want to inspire you to Discover and Find Your Own Style!
+        </span>
+    </div>
+</div>
+
+<div class="adv">
+    <div class="adv-content">
+        <div class="rocket-lunch-1">
+            <img class="vector" src="~/assets/vectors/vector19_x2.svg" />
+            <p>
+                <span>Free Shipping</span><br>
+                Free Shipping All Order
+            </p>
+        </div>
+    </div>
+    <div class="adv-content">
+        <div class="rocket-lunch-1">
+            <img class="vector" src="~/assets/images/A52.png" />
+            <p>
+                <span>A 100% Money Guarantee</span><br>
+                30 days money back
+            </p>
+        </div>
+    </div>
+    <div class="adv-content">
+        <div class="rocket-lunch-1">
+            <img class="vector" src="~/assets/vectors/vector78_x2.svg" />
+            <p>
+                <span>Help Center</span><br>
+                24/7 Support System
+            </p>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

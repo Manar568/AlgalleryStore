@@ -1,0 +1,17 @@
+﻿@model IEnumerable<AlGallery.Models.Categories>
+
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<div class="dropdowncat">
+    <form id="categoryForm" method="get" asp-action="Index">
+        <select id="categorySelect" name="categoryName">
+            <option value="">ALL</option>
+            @foreach (var category in Model)
+            {
+                <option value="@category.Name">@category.Name</option>
+            }
+        </select>
+        <input type="hidden" id="categoryId" name="categoryId" />
+    </form>
+</div>

@@ -1,0 +1,139 @@
+﻿
+@model IEnumerable<AlGallery.Models.Products>
+
+@{
+    ViewData["Title"] = "Product List";
+
+    Layout = "_LayoutAdmin";
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #A28C7F; /* Header Color */
+        }
+
+        .btn-primary {
+            background-color: #A28C7F; /* Button Background Color */
+            border: none;
+            transition: background-color 0.3s;
+        }
+
+            .btn-primary:hover {
+                background-color: #8B7562; /* Button Background Hover Color */
+            }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #dee2e6;
+            color: #333; /* Font Color */
+        }
+
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+
+        tbody tr:hover {
+            background-color: #f8f9fa;
+        }
+
+        .btn-action {
+            margin-right: 5px;
+            color: #fff; /* Button Font Color */
+            background-color: #A28C7F; /* Button Background Color */
+            border-color: #A28C7F; /* Button Border Color */
+            transition: background-color 0.3s;
+        }
+
+            .btn-action:hover {
+                background-color: #8B7562; /* Button Background Hover Color */
+                border-color: #8B7562; /* Button Border Hover Color */
+            }
+
+            .btn-action:last-child {
+                margin-right: 0;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>@ViewData["Title"]</h1>
+
+        <div class="text-right mb-3">
+            <a class="btn btn-primary" asp-action="Create">Create New Product</a>
+        </div>
+
+        @if (Model.Any())
+        {
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Price</th>
+                        <th>Description</th>
+                        <th>Stock</th>
+                        <th>Image</th>
+                        <th>Categories</th>
+                        <th>Name</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Stock)</td>
+                            <td><img src="@item.Image" alt="@item.Name" width="50"></td>
+                            <td>@Html.DisplayFor(modelItem => item.Categories.Id)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                            <td>
+                                <div class="btn-group" role="group">
+                                    <a class="btn btn-action" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                                    <a class="btn btn-action" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                                    <a class="btn btn-action" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>No products found.</p>
+        }
+    </div>
+</body>
+</html>

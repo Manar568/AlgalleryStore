@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="utf-8" />
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ALGallery Store website</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="~/css/Roboto.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/poppins.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/rufina.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css\about.css" asp-append-version="true" />
+</head>
+
+
+<body>
+   
+    
+    <div class="about">
+
+        <div class="header-line">
+            <a asp-area="" asp-controller="Home" asp-action="Home">
+            <div class="logooooooooooo">
+            </div>
+            </a>
+            <div class="header-line-1">
+                <a  asp-area="" asp-controller="Home" asp-action="Home">
+                    <span class="home">
+                        Home
+                    </span>
+                </a>
+                <a  asp-area="" asp-controller="Home" asp-action="About">
+                    <span class="about">
+                        ABOUT
+                    </span>
+                </a>
+                <a asp-area="" asp-controller="Collection" asp-action="Index">
+                    <span class="collection">
+                        collection
+                    </span>
+                </a>
+                <a  asp-area="" asp-controller="Home" asp-action="Contact">
+                    <span class="contact-1">
+                        Contact
+                    </span>
+                </a>
+            </div>
+        </div>
+ </div>
+
+
+
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+
+ <div class="about">
+    <div class="footer">
+        <div class="footer-container">
+            <div class="footerTextcontainer ">
+
+                <div class="footerTextcontainer-1">
+                    <div class="social-media">
+                        Social Media
+                    </div>
+                    <div class="social-medialogos">
+                            <a  asp-area="" asp-controller="Home" asp-action="">
+                            <div class="facebook">
+                                    <img class="vectorf" src="~/assets/vectors/vector98_x2.svg" />
+                            </div>
+                        </a>
+                            <a asp-area="" asp-controller="Home" asp-action="">
+                            <div class="twitter">
+                                    <img class="vector-1" src="~/assets/vectors/vector90_x2.svg" />
+                            </div>
+                        </a>
+                            <a asp-area="" asp-controller="Home" asp-action="">
+                            <div class="instagram">
+                                    <img class="vector-2" src="~/assets/vectors/vector68_x2.svg" />
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="shopGroup">
+                    <div class="shop">
+                        SHOP
+                    </div>
+                        <a asp-area="" asp-controller="Home" asp-action="Collection">
+                        <div class="products">
+                            Products
+                        </div>
+                    </a>
+                        <a asp-area="" asp-controller="Home" asp-action="">
+                        <div class="terms">
+                            Terms
+                        </div>
+                    </a>
+                        <a asp-area="" asp-controller="Home" asp-action="">
+                        <span class="privacy">
+                            Privacy
+                        </span>
+                    </a>
+                </div>
+                <div class="companyGroup">
+                    <div class="company">
+                        Company
+                    </div>
+                        <a asp-area="" asp-controller="Home" asp-action="About">
+                        <div class="about-us">
+                            About us
+                        </div>
+                    </a>
+                        <a asp-area="" asp-controller="Home" asp-action="Contact">
+                        <div class="contact">
+                            Contact
+                        </div>
+                    </a>
+                        <a asp-area="" asp-controller="Home" asp-action="Collection">
+                        <span class="news">
+                            News
+                        </span>
+                    </a>
+                </div>
+
+                <div class="stay-up">
+                    <div class="stay-up-to-date">
+                        Stay up to date
+                    </div>
+                   @*  <form>
+                        <input type="email" name="container-email" placeholder="Enter your email" />
+                        <input type="submit" onclick="thnxmsg()" value="Submit" />
+                    </form> *@
+                </div>
+
+
+            </div>
+            <div class="line">
+            </div>
+        </div>
+            <a asp-area="" asp-controller="Home" asp-action="Home">
+            <div class="logo-footer">
+            </div>
+        </a>
+    </div>
+
+  </div>
+
+
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

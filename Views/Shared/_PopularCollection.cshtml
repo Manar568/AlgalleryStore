@@ -1,0 +1,82 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<AlGallery.Models.Products>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .product-card {
+            width: 100%;
+            max-width: 320px;
+            margin: 10px;
+            padding: 10px;
+            transition: 0.3s;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+        }
+
+            .product-card img {
+                width: 100%;
+/*                 height: auto;
+ */                border-radius: 10px;
+            }
+
+        .product-details {
+            text-align: center;
+            font-family: 'Poppins';
+        }
+
+            .product-details h4 {
+                font-weight: 600;
+                font-size: 22px;
+                color: #373737;
+                margin-bottom: 8px;
+            }
+
+            .product-details p {
+                font-weight: 500;
+                font-size: 18px;
+                color: #615E59;
+                margin-top: 0;
+            }
+
+        .row {
+            margin-left: -10px;
+            margin-right: -10px;
+        }
+
+        .col-md-6, .col-lg-3 {
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6 col-lg-3 d-flex align-items-stretch">
+                    <div class="product-card">
+                        <img src="@item.Image" alt="Product Image" height="336px" width="320px">
+                        <div class="product-details">
+                            <h4><b>@item.Name</b></h4>
+                            <p>EGP @item.Price</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,130 @@
+﻿
+@{
+    Layout = "_LayoutAdmin";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Details</title>
+   <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #A28C7F;
+            background-color: #F8F9FA;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #FFF;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            color: #A28C7F;
+            text-align: center;
+        }
+
+        .product-details dl {
+            display: grid;
+            grid-template-columns: auto auto;
+            gap: 10px;
+        }
+
+        .product-details div {
+            margin-bottom: 10px;
+        }
+
+        .product-details dt {
+            font-weight: bold;
+        }
+
+        .btn-secondari {
+            background-color: #A28C7F;
+        }
+
+        .button-group {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .btn-primary,
+        .btn-secondary {
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            color: #FFF;
+            transition: background-color 0.3s;
+        }
+
+        .btn-primary {
+            background-color: #A28C7F;
+        }
+
+        .btn-secondary {
+            background-color: #555;
+        }
+
+            .btn-primary:hover,
+            .btn-secondary:hover {
+                background-color: #7A665C;
+            }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            color: #fff;
+            transition: background-color 0.3s ease;
+        }
+
+   </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Details</h1>
+        </header>
+        <div class="product-details">
+            <dl>
+                <div>
+                    <dt>Price:</dt>
+                    <dd>$@Model.Price</dd>
+                </div>
+                <div>
+                    <dt>Description:</dt>
+                    <dd>@Model.Description</dd>
+                </div>
+                <div>
+                    <dt>Stock:</dt>
+                    <dd>@Model.Stock</dd>
+                </div>
+                <div>
+                    <dt>Image:</dt>
+                    <dd>@Model.Image</dd>
+                </div>
+                <div>
+                    <dt>Category ID:</dt>
+                    <dd>@Model.Categories.Id</dd>
+                </div>
+                <div>
+                    <dt>Name:</dt>
+                    <dd>@Model.Name</dd>
+                </div>
+            </dl>
+        </div>
+        <div class="button-group">
+            <a class=" btn btn-secondari" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+            <a class="btn btn-secondari" asp-action="Index">Back to List</a>
+        </div>
+    </div>
+</body>
+</html>

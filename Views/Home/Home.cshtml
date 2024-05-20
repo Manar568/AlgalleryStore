@@ -1,0 +1,237 @@
+﻿
+@{
+    ViewData["Title"] = "Home";
+    var popularProducts = ViewBag.PopularProducts as IEnumerable<AlGallery.Models.Products>;
+
+}
+
+<div class="algallery-store-website">
+  <div class="header">
+<div class="maintext-container">
+    <div class="mainText">
+
+        <div class="p1">
+            Discover and Find Your Own Style!
+        </div>
+        <div class="p2">
+            Explore our curated collection of stylish arts and handcrafted accessories tailored to your unique taste.
+        </div>
+          <a asp-area="" asp-controller="Home" asp-action="Collection">               
+              <button class="button1" >
+                Explore Now
+            </button>
+          </a> 
+    </div>
+    <div class="main-img">
+        <div class="vases">
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+
+@* div class="popular-collection-1">
+    Popular Collection
+</div>
+<div class="popular-collection"> *@
+    <div class="popular-collection-1">
+        Popular Collection
+    </div>
+
+    @Html.Partial("_PopularCollection", popularProducts);
+
+
+
+
+
+        @* <div class="imags-1">
+            <img src="../assets/images/img1.png">
+            <div class="container">
+                <h4><b>DESIGN  1</b></h4>
+                <p>EGP 15.99</p>
+            </div>
+        </div>
+ 
+
+
+
+  
+ <div class="imgs">
+        <div class="row1">
+            <div class="img1row1-1"></div>
+            <div class="img2row1-1"></div>
+            <div class="img3row1-1"></div>
+            <div class="img4row1-1"></div>
+        </div>
+        <div class="row2">
+            <div class="img1row2-1"></div>
+        </div>
+
+    </div>
+    <div class="main-text">
+        <div class="textcontainer1">
+            <div class="homeTextgroup">
+                <div class="design-1">
+                    DESIGN  1
+                </div>
+                <span class="egp-1">
+                    EGP 15.99
+                </span>
+            </div>
+            <div class="homeTextgroup">
+                <div class="design-2">
+                    DESIGN 2
+                </div>
+                <span class="egp-2">
+                    EGP 15.99
+                </span>
+            </div>
+            <div class="homeTextgroup">
+                <div class="design-3">
+                    DESIGN  3
+                </div>
+                <span class="egp-3">
+                    EGP 15.99
+                </span>
+            </div>
+            <div class="homeTextgroup">
+                <div class="design-4">
+                    DESIGN  4
+                </div>
+                <span class="egp-4">
+                    EGP 15.99
+                </span>
+            </div>
+        </div>
+        <div class="containerr">
+            <div class="img2row2-1">
+            </div>
+            <div class="img3row2-1">
+            </div>
+        </div>
+
+        <div class="textcontainer2">
+            <div class="homeTextgroup2">
+                <div class="design-5">
+                    DESIGN  5
+                </div>
+                <span class="egp-5">
+                    EGP 15.99
+                </span>
+            </div>
+            <div class="homeTextgroup2">
+                <div class="design-6">
+                    DESIGN  6
+                </div>
+                <span class="egp-6">
+                    EGP 15.99
+                </span>
+            </div>
+            <div class="homeTextgroup2">
+                <div class="design-7">
+                    DESIGN  7
+                </div>
+                <span class="egp-7">
+                    EGP 15.99
+                </span>
+            </div>
+            <div class="homeTextgroup2">
+                <div class="design-8">
+                    DESIGN  8
+                </div>
+                <span class="egp-8">
+                    EGP 15.99
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="img4row2-1"></div>
+        </div>*@
+
+<a asp-area="" asp-controller="Home" asp-action="Collection">
+    
+  <button class="see-allButtom1" >
+    See all&#160&#160&#160<span class="seeall-arrow">&rarr;</span>
+   </button>
+   </a>
+        
+
+
+
+
+
+
+
+
+
+        <div id="NEWS">
+    <div class="group-news">
+        <div class="containerrr">
+
+            <div class="NEWStext">
+                <div class="al-gallery-store">
+                    AlGallery Store
+                </div>
+                <div class="join-us">
+                    Join us in celebrating the ingenuity of our artists &amp; supporting them and virtually connected through artistic endeavor.
+                </div>
+                    <a asp-area="" asp-controller="Home" asp-action="Collection">
+                    <button class="button1">          
+                        
+                         Shop Now 
+                         
+                </button>
+                    </a>
+                  
+            </div>
+            <div class="imgnews">
+            </div>
+            <div class="imgnews-1"></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div class="adv">
+    <div class="adv-content">
+        <div class="rocket-lunch-1">
+            <img class="vector" src="~/assets/vectors/vector19_x2.svg" />
+            <p>
+                <span>Free Shipping</span><br>
+                Free Shipping All Order
+            </p>
+        </div>
+    </div>
+    <div class="adv-content">
+        <div class="rocket-lunch-1">
+            <img class="vector" src="~/assets/images/A52.png" />
+            <p>
+                <span>A 100% Money Guarantee</span><br>
+                30 days money back
+            </p>
+        </div>
+    </div>
+    <div class="adv-content">
+        <div class="rocket-lunch-1">
+            <img class="vector" src="~/assets/vectors/vector78_x2.svg" />
+            <p>
+                <span>Help Center</span><br>
+                24/7 Support System
+            </p>
+        </div>
+    </div>
+</div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,157 @@
+﻿@* @model OurProject.Models.Orders
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Orders</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Customers)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Customers.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Payments)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Payments.Method)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Shipments)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Shipments.Address)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+ *@
+
+@model OurProject.Models.Orders
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Details</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa; /* Light gray background */
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff; /* White background */
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+        }
+
+        h1, h4 {
+            color: #A28C7; /* Blue color for headings */
+            text-align: center;
+        }
+
+        .row dt {
+            color: #A28C7; /* Blue color for term in definition list */
+            font-weight: bold;
+        }
+
+        .row dd {
+            color: #6c757d; /* Gray color for description in definition list */
+        }
+
+        .btn-edit {
+            background-color: #A28C7; /* Blue color for edit button */
+            border: none;
+            color: #fff; /* White text color */
+            padding: 8px 16px;
+            border-radius: 4px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+
+            .btn-edit:hover {
+                background-color: #7a6e9c; /* Darker blue on hover */
+            }
+
+        .btn-back {
+            background-color: #6c757d; /* Gray color for back button */
+            border: none;
+            color: #fff; /* White text color */
+            padding: 8px 16px;
+            border-radius: 4px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+
+            .btn-back:hover {
+                background-color: #5a6268; /* Darker gray on hover */
+            }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Order Details</h1>
+        <div>
+            <h4>Order Information</h4>
+            <hr>
+            <dl class="row">
+                <dt class="col-sm-2">@Html.DisplayNameFor(model => model.OrderDate)</dt>
+                <dd class="col-sm-10">@Html.DisplayFor(model => model.OrderDate)</dd>
+                <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Price)</dt>
+                <dd class="col-sm-10">@Html.DisplayFor(model => model.Price)</dd>
+                <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Customers)</dt>
+                <dd class="col-sm-10">@Html.DisplayFor(model => model.Customers.Id)</dd>
+                <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Payments)</dt>
+                <dd class="col-sm-10">@Html.DisplayFor(model => model.Payments.Method)</dd>
+                <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Shipments)</dt>
+                <dd class="col-sm-10">@Html.DisplayFor(model => model.Shipments.Address)</dd>
+                <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Name)</dt>
+                <dd class="col-sm-10">@Html.DisplayFor(model => model.Name)</dd>
+            </dl>
+        </div>
+        <div>
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-edit">Edit</a>
+            <a asp-action="Index" class="btn btn-back">Back to List</a>
+        </div>
+    </div>
+
+</body>
+</html>

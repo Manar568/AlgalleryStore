@@ -1,0 +1,1085 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlGallery.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AlGallery.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\A226.png",
+      "PackagePath": "staticwebassets\\assets\\images\\A226.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\A52.png",
+      "PackagePath": "staticwebassets\\assets\\images\\A52.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\a1587Fab6Cb993Fcff216C03968Bc18B.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\a1587Fab6Cb993Fcff216C03968Bc18B.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\a765894C95Aa02Fb61F4F29Edcc0200.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\a765894C95Aa02Fb61F4F29Edcc0200.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\a9447Cc213834097B8E6717E840830E7RemovebgPreview1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\a9447Cc213834097B8E6717E840830E7RemovebgPreview1.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\adecorativeCoasterThatllPreventRingStainsOnYourNightstandEachOneIsHandcraftedAndUniqueAsWellAsHeatResistantsoYouCanPlaceYourPipingCupOfTeaDownOnIt1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\adecorativeCoasterThatllPreventRingStainsOnYourNightstandEachOneIsHandcraftedAndUniqueAsWellAsHeatResistantsoYouCanPlaceYourPipingCupOfTeaDownOnIt1.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\af7A59Dc47F50Bdce4495E6319A09243.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\af7A59Dc47F50Bdce4495E6319A09243.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\b1610B96E096E0Edd3D45302D7A977.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\b1610B96E096E0Edd3D45302D7A977.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\b16Cedde1E83Ff6B028Ddbdce6E15F.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\b16Cedde1E83Ff6B028Ddbdce6E15F.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\be0Dbda652B4911C4151084B46834C.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\be0Dbda652B4911C4151084B46834C.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\bf6B4Ebc6837231D5Ce6C9827F4D61.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\bf6B4Ebc6837231D5Ce6C9827F4D61.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\ccd3B630D80C892Eb1A4E059B.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\ccd3B630D80C892Eb1A4E059B.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\cdecba82E8569A50381B4427D52011.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\cdecba82E8569A50381B4427D52011.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\cf9Bd61Ee3215Fcc7624831A4835Cea9.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\cf9Bd61Ee3215Fcc7624831A4835Cea9.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\d89Bad6Be7E3Ed90E9A1E64Ab80A6891.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\d89Bad6Be7E3Ed90E9A1E64Ab80A6891.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\db680E025C4346A1BbE6031Efc0D6F1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\db680E025C4346A1BbE6031Efc0D6F1.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\dfcdc8Ca50D7904C941F5251A7910.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\dfcdc8Ca50D7904C941F5251A7910.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\download.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\download.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\download2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\download2.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\download4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\download4.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\download41.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\download41.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\download5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\download5.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\e1Fac4C8E00401Aa4AdE2A4124874E41.png",
+      "PackagePath": "staticwebassets\\assets\\images\\e1Fac4C8E00401Aa4AdE2A4124874E41.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\earring11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\earring11.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\earring112.png",
+      "PackagePath": "staticwebassets\\assets\\images\\earring112.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\easySpringInspiredDiysAnyoneCanDo2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\easySpringInspiredDiysAnyoneCanDo2.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\ef4251Ca5248D040877C3Fc7B3818C.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\ef4251Ca5248D040877C3Fc7B3818C.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\epoxyepoxyartgold.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\epoxyepoxyartgold.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\essentialOilDiffuserBraceletMatteRoseQuartzRosewoodAromatherapyBraceletHandmadeJewelryDiffuserJewelryHeartJewelry1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\essentialOilDiffuserBraceletMatteRoseQuartzRosewoodAromatherapyBraceletHandmadeJewelryDiffuserJewelryHeartJewelry1.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\f33E7F6Db5027E65Bf239Fd1Dc4Dc589.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\f33E7F6Db5027E65Bf239Fd1Dc4Dc589.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\f33Ea88C684618065C2Eb95B4D568A7.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\f33Ea88C684618065C2Eb95B4D568A7.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\f4Ab00D75A2D766Aee24138F7E1Ec090.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\f4Ab00D75A2D766Aee24138F7E1Ec090.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\f7Aab6Bad0C98D9A3E0F6541288C0832.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\f7Aab6Bad0C98D9A3E0F6541288C0832.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\f84170Addfc247B38844E2E3B9Ef84B.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\f84170Addfc247B38844E2E3B9Ef84B.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\handmadeCustomizableMakeUpOrganizer.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\handmadeCustomizableMakeUpOrganizer.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\heading2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\heading2.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\il600X6001.png",
+      "PackagePath": "staticwebassets\\assets\\images\\il600X6001.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image1.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image10.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image10.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image11.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image11.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image12.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image12.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\image13.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image14.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image14.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image2.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\image3.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image4.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image5.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image5121.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image5121.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image6.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image6.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image7.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image7.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image8.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\image8.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\image9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\image9.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\img1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img1.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\img2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img2.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\logooooooooooo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logooooooooooo.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\n.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\n.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\personalizedGirlsWomenRealFlowerResinPendantNecklaceInitialJewelryPressedFlowerNecklaceHandmadeJewelryChristmasGift1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\personalizedGirlsWomenRealFlowerResinPendantNecklaceInitialJewelryPressedFlowerNecklaceHandmadeJewelryChristmasGift1.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\photoArtBeigeblossomCanvasbutikComRemovebgPreview1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\photoArtBeigeblossomCanvasbutikComRemovebgPreview1.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\premiumPhoneCasesAccessoriesCaseMate.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\premiumPhoneCasesAccessoriesCaseMate.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\profileIconSilhouettePngTransparentAvatarIconProfileIconMemberLoginVectorIsolatedLoginIconsProfileIconsAvatarIconsPngImageForFreeDownloadRemovebgPreview1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profileIconSilhouettePngTransparentAvatarIconProfileIconMemberLoginVectorIsolatedLoginIconsProfileIconsAvatarIconsPngImageForFreeDownloadRemovebgPreview1.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\resin3TierCakeStandAndTrayAnd6CoastersWhiteAndGoldAndGoldAndSilverFlakesGeodeSet.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\resin3TierCakeStandAndTrayAnd6CoastersWhiteAndGoldAndGoldAndSilverFlakesGeodeSet.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\resinCoasterBeigeWbabysBreath.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\resinCoasterBeigeWbabysBreath.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\resinDiaries.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\resinDiaries.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\sculpturalHandmadeCeramicsAchatWithArtistIvanalovesCeramics.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\sculpturalHandmadeCeramicsAchatWithArtistIvanalovesCeramics.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\searchIcon21.png",
+      "PackagePath": "staticwebassets\\assets\\images\\searchIcon21.png"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\siliconeMoldsForResinArtMelbMolds.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\siliconeMoldsForResinArtMelbMolds.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\sisalVases1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\sisalVases1.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\whiteFloralAndGoldFlakeResinCoasters1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\whiteFloralAndGoldFlakeResinCoasters1.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\images\\x6001.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\x6001.jpeg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\container1_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\container1_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\container2_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\container2_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\container_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\container_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\group1_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\group1_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\group_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\group_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\h21_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\h21_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\h2_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\h2_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector100_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector100_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector101_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector101_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector102_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector102_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector103_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector103_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector104_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector104_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector105_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector105_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector106_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector106_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector108_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector108_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector109_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector109_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector10_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector10_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector110_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector110_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector111_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector111_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector112_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector112_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector11_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector11_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector12_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector12_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector13_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector13_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector14_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector14_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector15_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector15_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector16_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector16_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector17_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector17_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector18_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector18_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector19_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector19_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector1_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector1_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector20_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector20_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector21_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector21_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector22_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector22_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector23_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector23_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector24_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector24_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector25_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector25_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector26_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector26_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector27_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector27_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector28_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector28_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector29_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector29_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector2_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector2_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector30_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector30_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector31_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector31_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector32_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector32_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector33_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector33_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector34_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector34_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector35_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector35_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector36_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector36_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector37_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector37_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector38_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector38_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector39_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector39_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector3_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector3_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector40_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector40_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector41_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector41_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector42_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector42_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector43_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector43_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector44_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector44_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector45_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector45_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector46_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector46_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector47_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector47_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector48_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector48_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector49_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector49_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector4_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector4_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector50_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector50_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector51_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector51_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector52_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector52_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector53_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector53_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector54_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector54_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector55_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector55_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector56_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector56_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector57_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector57_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector58_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector58_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector59_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector59_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector5_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector5_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector60_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector60_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector61_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector61_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector62_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector62_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector63_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector63_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector64_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector64_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector65_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector65_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector66_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector66_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector67_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector67_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector68_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector68_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector69_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector69_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector6_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector6_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector70_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector70_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector71_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector71_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector72_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector72_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector73_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector73_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector74_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector74_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector75_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector75_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector76_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector76_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector77_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector77_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector78_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector78_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector79_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector79_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector7_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector7_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector80_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector80_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector81_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector81_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector82_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector82_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector83_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector83_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector84_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector84_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector85_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector85_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector86_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector86_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector87_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector87_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector88_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector88_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector89_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector89_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector8_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector8_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector90_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector90_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector91_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector91_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector92_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector92_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector93_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector93_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector94_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector94_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector95_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector95_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector96_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector96_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector97_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector97_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector98_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector98_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector99_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector99_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector9_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector9_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\assets\\vectors\\vector_x2.svg",
+      "PackagePath": "staticwebassets\\assets\\vectors\\vector_x2.svg"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\CreateProducts.css",
+      "PackagePath": "staticwebassets\\css\\CreateProducts.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\DeleteProducts.css",
+      "PackagePath": "staticwebassets\\css\\DeleteProducts.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\Poppins.css",
+      "PackagePath": "staticwebassets\\css\\Poppins.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\ProductDetails.css",
+      "PackagePath": "staticwebassets\\css\\ProductDetails.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\Roboto.css",
+      "PackagePath": "staticwebassets\\css\\Roboto.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\Rufina.css",
+      "PackagePath": "staticwebassets\\css\\Rufina.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\algalleryAfterLogin.css",
+      "PackagePath": "staticwebassets\\css\\algalleryAfterLogin.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\algalleryStoreWebsite.css",
+      "PackagePath": "staticwebassets\\css\\algalleryStoreWebsite.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\collectionAccessories.css",
+      "PackagePath": "staticwebassets\\css\\collectionAccessories.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\collectionAll.css",
+      "PackagePath": "staticwebassets\\css\\collectionAll.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\collectionArts.css",
+      "PackagePath": "staticwebassets\\css\\collectionArts.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\collectionBags.css",
+      "PackagePath": "staticwebassets\\css\\collectionBags.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\collectionRisen.css",
+      "PackagePath": "staticwebassets\\css\\collectionRisen.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\AlGalleryStore2\\AlGallery\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AlGallery.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AlGallery.props",
+      "PackagePath": "build\\AlGallery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AlGallery.props",
+      "PackagePath": "buildMultiTargeting\\AlGallery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AlGallery.props",
+      "PackagePath": "buildTransitive\\AlGallery.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

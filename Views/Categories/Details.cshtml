@@ -1,0 +1,124 @@
+﻿@* @model AlGallery.Models.Categories
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Categories</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+ *@
+
+ @model AlGallery.Models.Categories
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "_LayoutAdmin";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #A28C7F;
+            background-color: #F8F9FA;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #FFF;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            color: #A28C7F;
+            text-align: center;
+        }
+
+        .product-details dl {
+            display: grid;
+            grid-template-columns: auto auto;
+            gap: 10px;
+        }
+
+        .product-details div {
+            margin-bottom: 10px;
+        }
+
+        .product-details dt {
+            font-weight: bold;
+        }
+
+        .btn-secondary {
+            background-color: #A28C7F;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            color: #FFF;
+            transition: background-color 0.3s;
+            cursor: pointer;
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+            .btn-secondary:hover {
+                background-color: #7A665C;
+            }
+
+        .btn-group {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Details</h1>
+        </header>
+        <div class="product-details">
+            <dl>
+                <div>
+                    <dt>Name:</dt>
+                    <dd>@Html.DisplayFor(model => model.Name)</dd>
+                </div>
+            </dl>
+        </div>
+        <div class="btn-group">
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn-secondary">Edit</a>
+            <a asp-action="Index" class="btn-secondary">Back to List</a>
+        </div>
+    </div>
+</body>
+</html>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,182 @@
+﻿@* @model OurProject.Models.Orders
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Orders</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="OrderDate" class="control-label"></label>
+                <input asp-for="OrderDate" class="form-control" />
+                <span asp-validation-for="OrderDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <select asp-for="UserId" class="form-control" asp-items="ViewBag.UserId"></select>
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaymentId" class="control-label"></label>
+                <select asp-for="PaymentId" class="form-control" asp-items="ViewBag.PaymentId"></select>
+                <span asp-validation-for="PaymentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShipmentId" class="control-label"></label>
+                <select asp-for="ShipmentId" class="form-control" asp-items="ViewBag.ShipmentId"></select>
+                <span asp-validation-for="ShipmentId" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+ *@
+
+                @model OurProject.Models.Orders
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Order</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa; /* Light gray background */
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff; /* White background */
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+        }
+
+        h1, h4 {
+            color: #A28C7; /* Blue color for headings */
+            text-align: center;
+        }
+
+        .form-control {
+            border: 1px solid #ced4da; /* Gray border */
+            border-radius: 4px;
+            padding: 10px;
+            width: 100%;
+            margin-bottom: 15px;
+            box-sizing: border-box;
+        }
+
+        .btn-primary {
+            background-color: #A28C7; /* Blue color for save button */
+            border-color: #A28C7;
+            color: #fff; /* White text color */
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            .btn-primary:hover {
+                background-color: #7a6e9c; /* Darker blue on hover */
+                border-color: #7a6e9c;
+            }
+
+        .btn-secondary {
+            background-color: #fff; /* White background for secondary button */
+            border-color: #A28C7; /* Blue border */
+            color: #A28C7; /* Blue text color */
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: color 0.3s, border-color 0.3s;
+        }
+
+            .btn-secondary:hover {
+                color: #7a6e9c; /* Darker blue on hover */
+                border-color: #7a6e9c; /* Darker blue border on hover */
+            }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Edit Order</h1>
+        <h4>Order Details</h4>
+        <hr>
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label for="OrderDate">Order Date:</label>
+                <input asp-for="OrderDate" class="form-control" id="OrderDate" />
+                <span asp-validation-for="OrderDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Price">Price:</label>
+                <input asp-for="Price" class="form-control" id="Price" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="UserId">User:</label>
+                <select asp-for="UserId" class="form-control" id="UserId" asp-items="ViewBag.UserId"></select>
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="PaymentId">Payment Method:</label>
+                <select asp-for="PaymentId" class="form-control" id="PaymentId" asp-items="ViewBag.PaymentId"></select>
+                <span asp-validation-for="PaymentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="ShipmentId">Shipment Method:</label>
+                <select asp-for="ShipmentId" class="form-control" id="ShipmentId" asp-items="ViewBag.ShipmentId"></select>
+                <span asp-validation-for="ShipmentId" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label for="Name">Name:</label>
+                <input asp-for="Name" class="form-control" id="Name" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Save</button>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>

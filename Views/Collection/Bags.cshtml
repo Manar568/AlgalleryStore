@@ -1,0 +1,188 @@
+﻿@{
+    Layout = "_Layout2";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Bags"]</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="~/css/Roboto.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/poppins.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/rufina.css" asp-append-version="true" />
+    <link href="~/css/collectionbags.css" rel="stylesheet" asp-append-version="true" />
+    
+</head>
+<body>
+    <div class="collectionBags">
+    <div class="back_links">
+        <div class="item">
+            <a href="algalleryStoreWebsite.html">
+                <span class="link-home">
+                    HOME
+                </span>
+            </a>
+            <img class="vector3" src="../assets/vectors/vector91_x2.svg" />
+        </div>
+        <a href="collectionAll.html">
+            <div class="link-collection">
+                Collection
+            </div>
+        </a>
+    </div>
+    <div class="popular-collection">
+        <span class="popular-collection-1">
+            Popular Collection
+        </span>
+    </div>
+    <div class="dropdown_menues">
+        <div class="dropdowncat">
+            <button class="dropbtn">
+                Bags<img class="droparrow" src="../assets/vectors/vector82_x2.svg" />
+            </button>
+            <div class="dropdown-content">
+                <a href="collectionAll.html">ALL</a>
+                <a href="collectionArts.html">Arts</a>
+                <a href="collectionAccessories.html">Accessories</a>
+                <a href="collectionRisen.html">Risen</a>
+            </div>
+        </div>
+        <div class="dropdownprice">
+            <button class="dropbtn">
+                Price<img class="droparrow" src="../assets/vectors/vector82_x2.svg" />
+            </button>
+            <div class="dropdown-content">
+                <a href="#">1-100 EGP</a>
+                <a href="#">101-200 EGP</a>
+                <a href="#">201-300 EGP</a>
+                <a href="#">301-400 EGP</a>
+            </div>
+        </div>
+        <a href="collectionAll.html">
+            <span class="clear-all">
+                Clear All
+            </span>
+        </a>
+    </div>
+
+
+    <div class="container_img">
+        <div class="image1">
+        </div>
+        <div class="image2">
+        </div>
+        <div class="image3">
+        </div>
+    </div>
+
+
+    <div class="container-text">
+        <div class="group">
+            <div class="design-1">
+                DESIGN  1
+            </div>
+            <span class="egp-1599">
+                EGP 15.99
+            </span>
+        </div>
+        <div class="group-1">
+            <div class="design-2">
+                DESIGN 2
+            </div>
+            <span class="egp-15991">
+                EGP 15.99
+            </span>
+        </div>
+        <div class="group-2">
+            <div class="design-3">
+                DESIGN  3
+            </div>
+            <span class="egp-15992">
+                EGP 15.99
+            </span>
+        </div>
+    </div>
+
+    <div class="container_img2">
+        <div class="image4">
+        </div>
+        <div class="image5">
+        </div>
+        <div class="image6">
+        </div>
+
+    </div>
+    <div class="container_text2">
+        <div class="group-3">
+            <div class="design-4">
+                DESIGN  4
+            </div>
+            <span class="egp-15993">
+                EGP 15.99
+            </span>
+        </div>
+        <div class="group-4">
+            <div class="design-5">
+                DESIGN 5
+            </div>
+            <span class="egp-15994">
+                EGP 15.99
+            </span>
+        </div>
+        <div class="group-5">
+            <div class="design-6">
+                DESIGN  6
+            </div>
+            <span class="egp-15995">
+                EGP 15.99
+            </span>
+        </div>
+    </div>
+    <div class="container_img3">
+        <div class="image7">
+        </div>
+        <div class="image8">
+        </div>
+        <div class="image9">
+        </div>
+    </div>
+    <div class="container_text3">
+        <div class="group-6">
+            <div class="design-7">
+                DESIGN  7
+            </div>
+            <span class="egp-15996">
+                EGP 15.99
+            </span>
+        </div>
+        <div class="group-7">
+            <div class="design-8">
+                DESIGN 8
+            </div>
+            <span class="egp-15997">
+                EGP 15.99
+            </span>
+        </div>
+        <div class="group-8">
+            <div class="design-9">
+                DESIGN  9
+            </div>
+            <span class="egp-15998">
+                EGP 15.99
+            </span>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
